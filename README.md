@@ -42,5 +42,11 @@ Gráfico de barras (comparación de ingresos).
 Gráfico circular (distribución por categoría).
 Gráfico de dispersión o línea (relación reseñas vs ventas).
 
-Conclusión:
-Recomendación final sobre qué tienda debería vender el Sr. Juan y justificación basada en datos.
+Conclusión: Recomendación final sobre qué tienda debería vender el Sr. Juan y justificación basada en datos.
+
+Basado en la evaluación de ingresos, mix de productos, satisfacción del cliente y costos operativos, se concluye que la Tienda 4 debe ser clausurada.
+
+A diferencia del resto de las sucursales, la Tienda 4 muestra un deterioro constante en sus ingresos totales. 
+Cabe destacar que el resto de los parámetros analizados (costos de envío, preferencias de productos y valoraciones de clientes) se mantienen en rangos similares a las tiendas con mejor desempeño, lo que indica que el problema de la Tienda 4 es de volumen de venta y rentabilidad estructural.
+
+
