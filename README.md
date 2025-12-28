@@ -49,4 +49,7 @@ Basado en la evaluación de ingresos, mix de productos, satisfacción del client
 A diferencia del resto de las sucursales, la Tienda 4 muestra un deterioro constante en sus ingresos totales. 
 Cabe destacar que el resto de los parámetros analizados (costos de envío, preferencias de productos y valoraciones de clientes) se mantienen en rangos similares a las tiendas con mejor desempeño, lo que indica que el problema de la Tienda 4 es de volumen de venta y rentabilidad estructural.
 
+![image](https://github.com/JCSR2022/challenge1-data-science-Alura/blob/main/Ingresos_por%20tienda.png)
+
+
 
